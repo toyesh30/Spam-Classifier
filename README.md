@@ -1,4 +1,4 @@
-Data source: https://spamassassin.apache.org/old/publiccorpus/
+Data source: https://spamassassin.apache.org/old/publiccorpus/</br>
 main.ipynb file contains the code for end to end pipeline. 
 Final Scores:
   Testing accuracy of model is: 97.987%
